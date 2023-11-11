@@ -1,4 +1,4 @@
-<div id=header align="center>
+
 ניהול בנק<br>
 
 מערכת לניהול חשבונות בנק, באמצעות המערכת ניתן לעקוב אחר פרטי החשבון, ליצור חשבון חדש ולנהל את כלל החשבונות של הלקוחות.<br>
@@ -17,17 +17,17 @@
 
 מיפוי Routes  לפקידים:<br>
 •	שליפת רשימת הפקידים Get https://bank.co.il/officials  <br>
-•	שליפת רשימת הפקידים לפי סניףGet https://bank.co.il/officials/branch  <br>
-•	שליפת פקיד לפי מזהה Get https://bank.co.il/officials/1<br>
-•	הוספת פקיד Post https://bank.co.il/officials<br>
-•	עדכון פרטי פקיד Put https://bank.co.il/officials/1<br>
-•	מחיקת פקיד לפי מזהה Delete https://bank.co.il/officials/1<br>
+•	שליפת רשימת הפקידים לפי סניף Get https://bank.co.il/officials/branch  <br>
+•	שליפת פקיד לפי מזהה Get https://bank.co.il/officials/1 <br>
+•	הוספת פקיד Post https://bank.co.il/officials <br>
+•	עדכון פרטי פקיד Put https://bank.co.il/officials/1 <br>
+•	מחיקת פקיד לפי מזהה Delete https://bank.co.il/officials/1 <br>
 
 מיפוי Routes  ללקוחות:<br>
 •	שליפת רשימת הלקוחות Get https://bank.co.il/customers <br> 
-•	שליפת רשימת לקוחות לפי כתובתGet https://bank.co.il/customers/address<br>  
-•	שליפת לקוח לפי מזהה Get https://bank.co.il/customers/1<br>
-•	הוספת לקוח Post https://bank.co.il/customers<br>
-•	עדכון פרטי לקוח Put https://bank.co.il/customers/1<br>
-•	מחיקת לקוח לפי מזהה Delete https://bank.co.il/customers/1<br>
-</div>
+•	שליפת רשימת לקוחות לפי כתובתGet https://bank.co.il/customers/address <br>  
+•	שליפת לקוח לפי מזהה Get https://bank.co.il/customers/1 <br>
+•	הוספת לקוח Post https://bank.co.il/customers <br>
+•	עדכון פרטי לקוח Put https://bank.co.il/customers/1 <br>
+•	מחיקת לקוח לפי מזהה Delete https://bank.co.il/customers/1 <br>
+
