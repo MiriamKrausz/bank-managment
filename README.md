@@ -1,8 +1,8 @@
 
-**ניהול בנק**<br>
+**ניהול בנק**`#0969DA`<br>
 
 מערכת לניהול חשבונות בנק, באמצעות המערכת ניתן לעקוב אחר פרטי החשבון, ליצור חשבון חדש ולנהל את כלל החשבונות של הלקוחות.<br>
-**ישויות:**<br>
+**ישויות:**`#0969DA`<br>
 •	חשבון בנק<br>
 •	פקידים<br>
 •	לקוחות<br>
@@ -25,7 +25,7 @@
 
 **מיפוי Routes  ללקוחות:**<br>
 •	שליפת רשימת הלקוחות Get https://bank.co.il/customers <br> 
-•	שליפת רשימת לקוחות לפי כתובתGet https://bank.co.il/customers/address <br>  
+•	שליפת רשימת לקוחות לפי כתובת Get https://bank.co.il/customers/address <br>  
 •	שליפת לקוח לפי מזהה Get https://bank.co.il/customers/1 <br>
 •	הוספת לקוח Post https://bank.co.il/customers <br>
 •	עדכון פרטי לקוח Put https://bank.co.il/customers/1 <br>
