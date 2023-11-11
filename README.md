@@ -25,7 +25,7 @@
 
 **מיפוי Routes  ללקוחות:**<br>
 •	שליפת רשימת הלקוחות Get https://bank.co.il/customers <br> 
-•	שליפת רשימת לקוחות לפי כתובת Get https://bank.co.il/customers/address <br>  
+•	שליפת רשימת לקוחות לפי כתובת Get https://bank.co.il/customers/address  
 •	שליפת לקוח לפי מזהה Get https://bank.co.il/customers/1 <br>
 •	הוספת לקוח Post https://bank.co.il/customers <br>
 •	עדכון פרטי לקוח Put https://bank.co.il/customers/1 <br>
