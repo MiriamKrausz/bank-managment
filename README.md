@@ -1,13 +1,13 @@
 
-ניהול בנק<br>
+**ניהול בנק**<br>
 
 מערכת לניהול חשבונות בנק, באמצעות המערכת ניתן לעקוב אחר פרטי החשבון, ליצור חשבון חדש ולנהל את כלל החשבונות של הלקוחות.<br>
-ישויות:<br>
+**ישויות:**<br>
 •	חשבון בנק<br>
 •	פקידים<br>
 •	לקוחות<br>
 
-מיפוי Routes  לחשבון בנק:<br>
+**מיפוי Routes  לחשבון בנק:**<br>
 •	שליפת רשימת כלל החשבונות <Get https://bank.co.il/accounts  <br>
 •	שליפת חשבון לפי מזהה חשבוןGet https://bank.co.il/accounts/5874 <br>
 •	הוספת חשבון חדש Post https://bank.co.il/accounts<br>
@@ -15,7 +15,7 @@
 •	מחיקת חשבון לפי מזהה Delete https://bank.co.il/accounts/5874 <br>
 •	עדכון סטטוס חשבון: Put https://bank.co.il/accounts/5874/status<br>
 
-מיפוי Routes  לפקידים:<br>
+**מיפוי Routes  לפקידים:**<br>
 •	שליפת רשימת הפקידים Get https://bank.co.il/officials  <br>
 •	שליפת רשימת הפקידים לפי סניף Get https://bank.co.il/officials/branch  <br>
 •	שליפת פקיד לפי מזהה Get https://bank.co.il/officials/1 <br>
@@ -23,7 +23,7 @@
 •	עדכון פרטי פקיד Put https://bank.co.il/officials/1 <br>
 •	מחיקת פקיד לפי מזהה Delete https://bank.co.il/officials/1 <br>
 
-מיפוי Routes  ללקוחות:<br>
+**מיפוי Routes  ללקוחות:**<br>
 •	שליפת רשימת הלקוחות Get https://bank.co.il/customers <br> 
 •	שליפת רשימת לקוחות לפי כתובתGet https://bank.co.il/customers/address <br>  
 •	שליפת לקוח לפי מזהה Get https://bank.co.il/customers/1 <br>
