@@ -13,7 +13,7 @@
 •	הוספת חשבון חדש Post https://bank.co.il/accounts<br>
 •	עדכון חשבון Put https://bank.co.il/accounts/5874 <br>
 •	מחיקת חשבון לפי מזהה Delete https://bank.co.il/accounts/5874 <br>
-•	עדכון סטטוס חשבון: Put https://bank.co.il/accounts/5874/status<br>
+•	עדכון שם בעל החשבון: Put https://bank.co.il/accounts/5874/ownersName<br>
 
 **מיפוי Routes  לפקידים:**<br>
 •	שליפת רשימת הפקידים Get https://bank.co.il/officials  <br>
