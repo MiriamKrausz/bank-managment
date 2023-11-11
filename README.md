@@ -6,14 +6,14 @@
 •	לקוחות<br>
 
 מיפוי Routes  לחשבון בנק:<br>
-•	שליפת רשימת כלל החשבונות <br><Get https://bank.co.il/accounts  
-•	שליפת חשבון לפי מזהה חשבוןGet https://bank.co.il/accounts/5874 
-•	הוספת חשבון חדש Post https://bank.co.il/accounts
-•	עדכון חשבון Put https://bank.co.il/accounts/5874 
-•	מחיקת חשבון לפי מזהה Delete https://bank.co.il/accounts/5874 
-•	עדכון סטטוס חשבון: Put https://bank.co.il/accounts/5874/status
+•	שליפת רשימת כלל החשבונות <Get https://bank.co.il/accounts  <br>
+•	שליפת חשבון לפי מזהה חשבוןGet https://bank.co.il/accounts/5874 <br>
+•	הוספת חשבון חדש Post https://bank.co.il/accounts<br>
+•	עדכון חשבון Put https://bank.co.il/accounts/5874 <br>
+•	מחיקת חשבון לפי מזהה Delete https://bank.co.il/accounts/5874 <br>
+•	עדכון סטטוס חשבון: Put https://bank.co.il/accounts/5874/status<br>
 
-מיפוי Routes  לפקידים:
+מיפוי Routes  לפקידים:<br>
 •	שליפת רשימת הפקידים Get https://bank.co.il/officials  
 •	שליפת רשימת הפקידים לפי סניףGet https://bank.co.il/officials/branch  
 •	שליפת פקיד לפי מזהה Get https://bank.co.il/officials/1
