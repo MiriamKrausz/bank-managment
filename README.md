@@ -6,7 +6,7 @@
 •	לקוחות<br>
 
 מיפוי Routes  לחשבון בנק:<br>
-•	שליפת רשימת כלל החשבונות Get https://bank.co.il/accounts  
+•	שליפת רשימת כלל החשבונות <br><Get https://bank.co.il/accounts  
 •	שליפת חשבון לפי מזהה חשבוןGet https://bank.co.il/accounts/5874 
 •	הוספת חשבון חדש Post https://bank.co.il/accounts
 •	עדכון חשבון Put https://bank.co.il/accounts/5874 
