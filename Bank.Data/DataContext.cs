@@ -1,5 +1,12 @@
-﻿using Bank.Entities;
-namespace Bank
+﻿
+using Bank.Entities;
+using System;
+using System.Collections.Generic;
+using System.Linq;
+using System.Text;
+using System.Threading.Tasks;
+
+namespace Bank.Data
 {
     public class DataContext
     {
@@ -9,6 +16,7 @@ namespace Bank
         public List<Official> OfficialList { get; set; }
         public DataContext()
         {
+            //פה אמורים לייבא נתונים מ DB
             Bank_AccountList = new List<Bank_Account>();
             Bank_AccountList.Add(new Bank_Account(12, 655, 388585, "Miriam Krausz", 317810380));
             Bank_AccountList.Add(new Bank_Account(13, 644, 388500, "Ester Cohen", 12345678));
